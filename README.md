@@ -69,8 +69,6 @@ customer-churn-prediction/
 │   ├── 07_model_comparison.ipynb
 │   └── 08_business_recommendations.ipynb
 │
-├── images/
-│
 ├── requirements.txt
 │
 └── README.md
