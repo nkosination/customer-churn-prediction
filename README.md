@@ -247,7 +247,7 @@ python
 
 ---
 
-## Interview Summary
+## Summary
 
 > I developed an end-to-end customer churn prediction pipeline covering exploratory data analysis, preprocessing, model development, model comparison and business recommendations. Logistic Regression provided the highest interpretability, while XGBoost achieved the strongest predictive performance. The project highlighted the trade-off between explainability and performance and concluded with actionable strategies for reducing customer churn and improving customer retention.
 
